@@ -1,0 +1,1 @@
+int CheckPatchFileName(char* fileName);
